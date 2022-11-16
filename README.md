@@ -1,4 +1,4 @@
-### Olá! Meu nome é Felipe Arosti 👋
+### Olá! Eu sou o Felipe Arosti 👋
 
 <div align="center">
   <a href="https://github.com/felipearosti">
