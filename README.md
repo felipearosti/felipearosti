@@ -18,4 +18,5 @@
   
   ##
 
+![Snake animation](https://github.com/felipearosti/felipearosti/blob/output/github-contribution-grid-snake.svg)
 
